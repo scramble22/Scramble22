@@ -20,7 +20,7 @@
 
 ### for now on I use dualboot and if not arch then macos 
 
-[![Arch Linux](https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=fff)](#)[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Arch Linux](https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=fff)](#)[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
 
 ### Again in coding... now learning [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#). Wait for new cool projects dudes :D
